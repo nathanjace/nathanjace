@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <!--
-**nathanjace/nathanjace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nathanjace&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+</div>
+
+### 👀 Views
+[![](https://visitcount.itsvg.in/api?id=nathanjace&icon=1&color=8)](https://visitcount.itsvg.in)
