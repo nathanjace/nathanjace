@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nathanjace&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ### 👀 Views
 [![](https://visitcount.itsvg.in/api?id=nathanjace&icon=1&color=8)](https://visitcount.itsvg.in)
+-->
